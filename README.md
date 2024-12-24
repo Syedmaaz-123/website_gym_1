@@ -1,4 +1,4 @@
-Gym Template README
+#Gym Template README
 Overview
 This Gym Template is a responsive HTML template designed for fitness centers, gyms, and personal trainers. It includes various sections such as services, classes, team members, testimonials, and a blog. The template is built using Bootstrap, jQuery, and other modern web technologies.
 
